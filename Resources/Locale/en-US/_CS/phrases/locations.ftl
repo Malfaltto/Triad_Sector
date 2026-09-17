@@ -15,7 +15,6 @@ phrase-location-nautical-docking-to = docking to
 
 # Station names
 phrase-location-frontier-outpost = Frontier outpost
-phrase-location-power-plant = Power Plant
 phrase-location-barrier = Barrier Station
 phrase-location-hospital = Medical Dispatch
 phrase-location-casino = Crazy Caseys' Casino
