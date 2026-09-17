@@ -4863,3 +4863,12 @@ Entries:
   id: 2606
   time: '2026-09-17T22:37:20.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/642
+- author: TheRealMasterChief117
+  changes:
+    - type: Add
+      message: >-
+        Added a new TDF uniform - TDF Flannel jumpsuit! You can roll its
+        sleeves, too.
+  id: 2607
+  time: '2026-09-17T22:56:58.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/643
