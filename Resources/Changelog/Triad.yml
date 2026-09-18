@@ -4872,3 +4872,12 @@ Entries:
   id: 2607
   time: '2026-09-17T22:56:58.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/643
+- author: EmoGarbage404
+  changes:
+    - type: Fix
+      message: >-
+        Fixed a bug that would stop guns and other irregularly shaped (like 1x1)
+        objects from fitting into storage, sometimes.
+  id: 2608
+  time: '2026-09-18T20:02:55.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/646
