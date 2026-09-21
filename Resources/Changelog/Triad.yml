@@ -4894,3 +4894,10 @@ Entries:
   id: 2609
   time: '2026-09-21T03:23:08.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/562
+- author: Minerva
+  changes:
+    - type: Tweak
+      message: IPC max age has been increased to 600 years.
+  id: 2610
+  time: '2026-09-21T03:27:37.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/649
