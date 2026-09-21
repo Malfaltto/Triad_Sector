@@ -44,6 +44,10 @@
   parent: [WeaponLoadoutRegisteredBase, WeaponRifleAnnie]
   id: WeaponRifleAnnieRegistered
   suffix: Registered
+  components:
+  - type: Contraband
+    turnInValues: []
+    hideValues: true
 
 - type: entity
   parent: [WeaponLoadoutRegisteredBase, WeaponRifleAK502]
