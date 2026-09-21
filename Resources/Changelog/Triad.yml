@@ -4881,3 +4881,16 @@ Entries:
   id: 2608
   time: '2026-09-18T20:02:55.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/646
+- author: DDrakov
+  changes:
+    - type: Add
+      message: >-
+        Added the safety deposit box console for personal belongings. You can
+        use this console to purchase safety deposit boxes, which is an
+        alternative way you can use to store your items, particularly if you are
+        afraid of your items going down with your ship.
+    - type: Add
+      message: Added safety deposit box console to Auric and Venmar.
+  id: 2609
+  time: '2026-09-21T03:23:08.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/562
