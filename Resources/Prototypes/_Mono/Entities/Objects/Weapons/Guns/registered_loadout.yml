@@ -46,7 +46,9 @@
   suffix: Registered
   components:
   - type: Contraband
-    turnInValues: []
+    turnInValues:
+      TriadCommerceCredit: 0
+      Doubloon: 0
     hideValues: true
 
 - type: entity
