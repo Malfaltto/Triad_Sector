@@ -4901,3 +4901,17 @@ Entries:
   id: 2610
   time: '2026-09-21T03:27:37.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/649
+- author: TheRealMasterChief117
+  changes:
+    - type: Fix
+      message: >-
+        Fixed some items inside of safety deposit boxes, specifically nested
+        storage, not initializing properly to where they have infinite use delay
+        or contraband permit data is erased.
+    - type: Fix
+      message: Fixed safety deposit consoles not having powered states.
+    - type: Fix
+      message: Fixed safety deposit consoles not having keyboard sounds on UI activate.
+  id: 2611
+  time: '2026-09-21T19:57:57.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/652
