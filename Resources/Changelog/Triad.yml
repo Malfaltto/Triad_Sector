@@ -4922,3 +4922,26 @@ Entries:
   id: 2612
   time: '2026-09-21T20:05:42.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/640
+- author: Stedar111
+  changes:
+    - type: Add
+      message: >-
+        Added the Bombadier, a brand new hybrid grenade launcher/shotgun hybrid
+        for the mercs and TDF!  Only takes 12 gauge box mags and 18.5x76mm box
+        mags, no drums.
+    - type: Add
+      message: >-
+        Added 18.5x76mm, a brand new caliber with exotic payloads (8 different
+        round types total!), can be researched, obtained through factional
+        techdisks, or bought via a tdf uplink.
+    - type: Tweak
+      message: >-
+        Changed Burner to take 18.5x76mm, fire slightly faster and have actual
+        accuracy! (Still unobtainable)
+    - type: Tweak
+      message: >-
+        Changed 12 gauge drum magazines to hold 12 shells, bulldog users
+        rejoice!
+  id: 2613
+  time: '2026-09-21T20:16:21.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/648
