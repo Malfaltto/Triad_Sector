@@ -4915,3 +4915,10 @@ Entries:
   id: 2611
   time: '2026-09-21T19:57:57.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/652
+- author: DDrakov
+  changes:
+    - type: Fix
+      message: Fixed ship filename not sanitized
+  id: 2612
+  time: '2026-09-21T20:05:42.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/640
