@@ -4972,3 +4972,20 @@ Entries:
   id: 2616
   time: '2026-09-22T20:48:38.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/655
+- author: Skybailey-dev
+  changes:
+    - type: Add
+      message: >-
+        Added a recipe for using plutonium and other materials to make RTG
+        flatpacks!
+    - type: Add
+      message: >-
+        You can now scrap antique power cells for trace amounts of plutonium! 10
+        will get you one bar.
+    - type: Tweak
+      message: >-
+        Changed the antique power cell's description to hint at it containing
+        plutonium!
+  id: 2617
+  time: '2026-09-22T21:20:09.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/654
