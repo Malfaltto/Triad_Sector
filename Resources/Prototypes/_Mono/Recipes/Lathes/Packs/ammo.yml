@@ -802,6 +802,7 @@
 
   - AmmoBox23x75mmUranium
   - Magazine12_gaugeUranium
+  - ShortMagazine12_gaugeUranium # Triad
   - AmmoBox12_gaugeUranium
   - Magazine762x51mmUranium
   - AmmoBox762x51mmUranium
@@ -836,6 +837,7 @@
 
   - AmmoBox23x75mmIncendiary
   - Magazine12_gaugeIncendiary
+  - ShortMagazine12_gaugeIncendiary
   - AmmoBox12_gaugeIncendiary
   - Magazine762x51mmIncendiary
   - AmmoBox762x51mmIncendiary
@@ -904,6 +906,7 @@
   - AmmoBox12_gaugeSlugAP
   - AmmoBox23x75mmFlechette
   - Magazine12_gaugeFlechette
+  - ShortMagazine12_gaugeFlechette # Triad
   - AmmoBox12_gaugeFlechette
 
 #RIP recipes
