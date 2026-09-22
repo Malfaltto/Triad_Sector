@@ -4952,3 +4952,14 @@ Entries:
   id: 2614
   time: '2026-09-22T02:20:56.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/653
+- author: Skybailey-dev
+  changes:
+    - type: Tweak
+      message: >-
+        Reworked the thermal properties of heat exchangers and gas channels
+        within nuclear reactors- heat exchangers are far better at conducting
+        and moving heat now than they were, and now actually worth using in
+        reactor designs for their listed purpose.
+  id: 2615
+  time: '2026-09-22T10:17:34.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/639
