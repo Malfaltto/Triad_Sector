@@ -4963,3 +4963,12 @@ Entries:
   id: 2615
   time: '2026-09-22T10:17:34.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/639
+- author: TheRealMasterChief117
+  changes:
+    - type: Tweak
+      message: >-
+        Tweaked some areas on Anomalous Lab and replaced its all-comms telecomms
+        server with a science one.
+  id: 2616
+  time: '2026-09-22T20:48:38.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/655
