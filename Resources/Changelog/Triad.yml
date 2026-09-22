@@ -4945,3 +4945,10 @@ Entries:
   id: 2613
   time: '2026-09-21T20:16:21.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/648
+- author: Dizzy-Eevee
+  changes:
+    - type: Fix
+      message: Fixed modsuit guns not working after being loaded from a ship/stash.
+  id: 2614
+  time: '2026-09-22T02:20:56.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/653
